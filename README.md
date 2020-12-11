@@ -57,7 +57,7 @@ npm start
 
 ## Demo
 
-![Product Gif](https://github.com/chasesagar/Voting-Application/demo.gif)
+![Product Gif](https://github.com/chasesagar/Voting-Application/blob/master/demo.gif)
 
 ## Quick Start
 
